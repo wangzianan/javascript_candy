@@ -1,0 +1,19 @@
+body{
+  background:rgb(39, 174, 96);
+}
+.quote-wrap{
+  background:white;
+  border-radius:5px;
+  margin-top:10px;
+  margin-left:auto;
+  margin-right:auto;
+  padding: 10px 10px 20px 10px;
+  width: 400px;
+  font-size: 22px;
+}
+.quote{
+    color: rgb(39, 174, 96);
+}
+.author{
+    color: rgb(39, 174, 96);
+}
