@@ -11,9 +11,21 @@ body{
   width: 400px;
   font-size: 22px;
 }
-.quote{
+.quote-text{
     color: rgb(39, 174, 96);
 }
-.author{
-    color: rgb(39, 174, 96);
+
+.author-wrap{
+  text-align: right;
+  color: rgb(39, 174, 96);
+}
+.fa-twitter{
+  color:#1da1f2;
+  float: left;
+}
+.next-btn{
+  float:right;
+}
+.buttons{
+  overflow: auto;
 }
